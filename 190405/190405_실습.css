@@ -1,0 +1,36 @@
+body {
+  background-color: #FEAB6D;
+}
+
+h1, h2, p {
+  font-family: Impact, "Arial Black", sans-serif;
+  color: #341C09;
+}
+
+p{
+  line-height: 1.5em;
+  font-size: 10px;
+  font-weight: 500;
+}
+
+img {
+  width: 70px;
+  height: auto;
+  float: left;
+  border: 5px solid #FC7307;
+}
+
+.chen {
+  background-color: #FFEBDC;
+  border: 5px solid #9D4502;
+  padding: 10px;
+}
+
+a {
+  border: 5px solid #9D4502;
+  background-color: #9D4502;
+  color: #FFEBDC;
+  position: fixed;
+  right: 20px;
+  top: 20px;
+}
