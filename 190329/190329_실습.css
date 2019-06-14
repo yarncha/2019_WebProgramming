@@ -1,0 +1,25 @@
+body {
+  background-color: #FF6F61;
+}
+h1{background-color: white;}
+
+aside {
+  padding-top: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+label {
+    display: inline-block;
+    width: 20%;
+    text-align: left;
+}
+
+nav{
+  float: right;
+}
+textarea {
+    vertical-align: middle;
+}
