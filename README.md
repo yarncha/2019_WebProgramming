@@ -7,3 +7,5 @@
   : Semantic Element를 사용하여 Layout을 정의하고 다양한 input 태그와 그 attribute를 사용해보는 실습
 - 190405
   : CSS 실습
+- 190419
+  : js를 이용하여 bmi를 계산하여 보여주는 페이지
