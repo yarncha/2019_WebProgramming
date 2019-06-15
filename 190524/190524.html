@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="utf-8">
+  <title>190524실습</title>
+</head>
+
+<body>
+  <form action="dataSave.php" method="post">
+    <label for="fileName">화일 이름 : </label>
+    <input type="text" id="fileName" name="fileName"><br />
+    <label for="keyWord">단어 : </label>
+    <input type="text" id="keyWord" name="keyWord"><br />
+
+    <input type="submit" value="검색" formaction="dataFind.php">
+    <input type="submit" value="새로운 데이타 추가하기">
+    <input type="submit" value="전체 데이타 보기" formaction="allData.php">
+  </form>
+</body>
+
+</html>
